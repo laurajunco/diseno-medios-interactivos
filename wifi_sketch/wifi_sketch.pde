@@ -24,7 +24,7 @@ void mousePressed() {
     if (prendido == false) {
       //cambia el color a verde
       fill(0, 255, 0);
-      //va a la url que prende el LED
+      //llama a la url que prende el LED
       GetRequest get = new GetRequest("http://192.168.0.8/arduino/digital/13/1");
       get.send();
      
@@ -35,7 +35,7 @@ void mousePressed() {
     } else {
       //cambia el color a rojo
       fill(255, 0, 0);
-      //va a la url que apaga el LED
+      //llama a la url que apaga el LED
       GetRequest get = new GetRequest("http://192.168.0.8/arduino/digital/13/0");
       get.send();
       
