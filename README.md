@@ -1,7 +1,7 @@
 # Diseño en medios interactivos
 ### Nombre Apellido
 
-1. [Color y Forma](/01)
+ 1. [Color y Forma](/01)
 2. [Repetición](/02)
 3. [Movimiento](/03)
 4. [Interacción](/04)
