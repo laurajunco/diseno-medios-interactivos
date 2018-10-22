@@ -1,5 +1,5 @@
 # Diseño en medios interactivos
-## Nombre Apellido
+### Nombre Apellido
 
 1. [Color y Forma](/01)
 2. [Repetición](/02)
